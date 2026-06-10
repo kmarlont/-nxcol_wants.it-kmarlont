@@ -96,4 +96,31 @@ body {
 
 </body>
 </html>
+<section>
+    <h2>About Me</h2>
+    <p>
+        My name is Marlon. Since I was born, I have always loved cars, and even now that I am grown up, that passion has never changed. Whenever a car passes by, I automatically look at it, trying to identify its name, model, and design. I am fascinated by automobiles and the way they are built.
+    </p>
+
+```
+<p>
+    I also find motorcycles interesting. Whenever one passes by, I often catch myself memorizing its number plate without even trying. It is something that comes naturally to me and shows how much attention I pay to details.
+</p>
+
+<p>
+    I enjoy learning new things every day, improving my typing skills, and spending time with computers and technology. I also love the beauty of nature and appreciate the world around me.
+</p>
+
+<p>
+    I always remember my parents and keep them in my prayers because they are very important to me.
+</p>
+
+<p>
+    A special person in my life is Nicole. I care about her deeply and love her very much. Sometimes I wonder whether her feelings for me are as genuine as mine are for her, but I continue to value and appreciate the bond that we share.
+</p>
+```
+
+</section>
+
+
 
