@@ -1,4 +1,3 @@
-# finese-troup
 
 <!DOCTYPE html>
 <html lang="en">
@@ -49,15 +48,17 @@
 <body>
 
 <header>
-    <h1>Hi, I'm Marlon</h1>
-    <p>🚗 Car Enthusiast • ⌨️ Typing Lover • ⭐ Dream Chaser</p>
+    <h1>Hellou, It's Marlon</h1>
+    <p>🚗 Car Enthusiast • ⌨️ Typing Lover • friendly and helpful</p>
 </header>
 
 <section>
-    <h2>About Me</h2>
+    <h2>Under me:</h2>
     <p>
         My name is Marlon. I enjoy exploring the world of cars,
         practicing my typing skills, and learning new things every day.
+        Remembering my parents always and praying for them not forgetting them.
+        computers' best addict and phone.
     </p>
 </section>
 
@@ -67,13 +68,14 @@
         <li>🚗 Cars and automotive technology</li>
         <li>⌨️ Fast and accurate typing</li>
         <li>📚 Learning and improving my skills</li>
+        <li>enjoyig the beauty of the nature</>
     </ul>
 </section>
 
 <section>
     <h2>Someone Special</h2>
     <p>
-        A special person in my life is <span class="highlight">Nicole</span>.
+        A special person in my life is <span class="highlight">Nicole and I love her very much hope nothing will distruct the love that we have</span>.
     </p>
 </section>
 
