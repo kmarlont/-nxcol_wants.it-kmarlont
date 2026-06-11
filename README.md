@@ -1,15 +1,3 @@
-body {
-    font-family: Arial, sans-serif;
-    background-image: url('https://images.unsplash.com/photo-1492144534655-ae79c964c9d7');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    color: white;
-    margin: 0;
-    padding: 0;
-}
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -60,16 +48,16 @@ body {
 
 <header>
     <h1>Hellou, It's Marlon</h1>
-    <p>🚗 Car Enthusiast • ⌨️ Typing Lover • friendly and helpful</p>
+    <p>🚗 Car Enthusiast • ⌨️ Fast Typer • Friendly and helpful</p>
 </header>
 
 <section>
     <h2>Under me:</h2>
     <p>
-        My name is Marlon. I enjoy exploring the world of cars,
+        Am Marlon. I enjoy exploring the world of cars,
         practicing my typing skills, and learning new things every day.
-        Remembering my parents always and praying for them not forgetting them.
-        computers' best addict and phone.
+        Remembering fm,computers' best addict and phone.
+        AWD is my favourite.
     </p>
 </section>
 
@@ -77,16 +65,21 @@ body {
     <h2>My Interests</h2>
     <ul>
         <li>🚗 Cars and automotive technology</li>
+        <li>under the TRD motors </li>
         <li>⌨️ Fast and accurate typing</li>
         <li>📚 Learning and improving my skills</li>
-        <li>enjoyig the beauty of the nature</>
+        <li>enjoying the beauty of the nature</li>
+        <li>always there for anyone especially DKT</li>
+        <li>Coding enthusiast, football lover, music fan and someone who enjoys watching amazing cars cruise by. I love technology, creativity and support</li>
     </ul>
 </section>
 
 <section>
     <h2>Someone Special</h2>
-    <p>
-        A special person in my life is <span class="highlight">Nicole and I love her very much hope nothing will distruct the love that we have</span>.
+    <p>I just remember the times hope its still the same,the website's reason of being developed is coz of you.
+        Sunday 16th of April I can't forget when it rained when we were at your gma'house.
+         Details to be continued.........
+         This gyal am by ur sd <span class="highlight">@nxcol_wants.it</span>.
     </p>
 </section>
 
@@ -96,31 +89,3 @@ body {
 
 </body>
 </html>
-<section>
-    <h2>About Me</h2>
-    <p>
-        My name is Marlon. Since I was born, I have always loved cars, and even now that I am grown up, that passion has never changed. Whenever a car passes by, I automatically look at it, trying to identify its name, model, and design. I am fascinated by automobiles and the way they are built.
-    </p>
-
-```
-<p>
-    I also find motorcycles interesting. Whenever one passes by, I often catch myself memorizing its number plate without even trying. It is something that comes naturally to me and shows how much attention I pay to details.
-</p>
-
-<p>
-    I enjoy learning new things every day, improving my typing skills, and spending time with computers and technology. I also love the beauty of nature and appreciate the world around me.
-</p>
-
-<p>
-    I always remember my parents and keep them in my prayers because they are very important to me.
-</p>
-
-<p>
-    A special person in my life is Nicole. I care about her deeply and love her very much. Sometimes I wonder whether her feelings for me are as genuine as mine are for her, but I continue to value and appreciate the bond that we share.
-</p>
-```
-
-</section>
-
-
-
